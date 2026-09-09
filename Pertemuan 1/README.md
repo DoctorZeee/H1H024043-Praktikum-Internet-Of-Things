@@ -1,6 +1,6 @@
 Nama: Dimas Rafif Zaidan  
 NIM: H1H024043  
-Shift Awal: C  
+Shift Awal: D  
 Shift Akhir: C  
 
 ---
